@@ -22,6 +22,6 @@ Congrats for finding this website amongst all my [homonyms](https://scholar.goog
 
 My scientific interests lie in Deep Learning and Computer Vision. More specifically **Online Continual Learning**, **Representation Learning** and **Knowledge Distillation**. You can find out all my publications on my [Google Scholar](https://scholar.google.com/citations?user=OyXkV0QAAAAJ&hl=en&scioq=nicolas+michel). You can also find me on [Linkedin](https://www.linkedin.com/in/nicolas-michel-4166b7113/) and [GitHub](https://github.com/Nicolas1203).
 
-**This website is clearly not finished yet!** Please ignore all Einstein-related content :sweat_smile:
+**This website is clearly not finished yet!** Please ignore all Einstein-related content :sweat_smile:.
 
 I will probably add more information about myself here but you get the big picture, probably.
