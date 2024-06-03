@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Nicolas1203
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Nicolas1203/mkd_ocl
+  - Nicolas1203/ocl-fd
+  - Nicolas1203/ossgcl
+  - Nicolas1203/Image_Captioning
+  - Nicolas1203/End-of-term-Article-classifier
