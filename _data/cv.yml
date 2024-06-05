@@ -8,65 +8,154 @@
     - name: Languages
       value: French, English, Japanese and Spanish notions.
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: Université Gustave Eiffel, France
-#       year: 2024
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD - Online Continuous Image Classification with Memory-based Methods, application to YouTube data
+      institution: Université Gustave Eiffel, Paris, France
+      year: 2021-2024
+      description:
+        - Online Continual Learning for Image Classification
+        - Memory-based methods
+        - Probabilistic Modeling of the Cross-Entropy loss function
+        - Stability-plasticity trade-off
+        - Collection and experiments on real YouTube data
+    - title: Exchange Semester
+      institution: The University of Tokyo, Tokyo, Japan
+      year: 2017-2018
+      description: 
+        - Exchange semester at the University of Tokyo, 1st Japanese university, in the Information Science and Technology department.
+        - Integration of the AIZAWA-YAMASAKI lab.
+        - First author of a domestic research paper and speaker at an IEICE conference in Okinawa, Japan.
+        - Computer Vision, NLP, Machine Learning and Differential Privacy.
+    - title: Engineering Degree
+      institution: Institut Mines-Telecom Atlantique, Nantes, France
+      year: 2014-2018
+      description:
+        - Major in Computer Science for Decision Support
+        - Optimization Algorithms (traveling salesman problem, etc.)
+        - Statistics and Probabilities
+        - Project Management
+    - title: Classe Préparatoire MPSI/MP*
+      institution: Fénelon Sainte-Marie, Paris, France
+      year: 2012-2014
+      description:
+        - Intensive Maths and Physics studies
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: ESIEE Paris, Paris, France
+      year: 2024
+      description:
+        - title: 3rd year classes (L3)
+          contents:
+          - Data science (python, numpy, sklearn)
+          - Optimisation et IA (python, keras)
+          - <a href="https://www.laurentnajman.org/index.php?page=ia-et-deep-learning">Introduction to Deep Learning</a> (python, keras)
+          - Algorithms and Data structures (C)
+          - Project supervisor:<a href="https://github.com/JohanPETIT/FootTracker">FootTracker</a>
+        - title: 1st year classes (L1)
+          contents:
+          - Micro-processors (ARM assembly language)
+          - Introduction to Object-Oriented Programming (java)
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
+    - title: Visiting Scientist
+      institution: The University of Tokyo, Tokyo, Japan
+      year: 2023
+      description:
+        - Visiting Scientist in the Computer Vision and Media Lab (<a href="https://www.cvm.t.u-tokyo.ac.jp/en/">CVM</a>)
+        - Worked with Prof. Yamasaki in the YAMASAKI-lab
+        - title: Research topics
+          contents:
+            - Online Continual Learning
+            - Mutual Learning
+            - Adversarial Training
+            - Impact of Image Generation on Continual Learners
+      
+    - title: Data Science Mentoring
+      department: OpenClassrooms
+      year: 2020 - now
+      description:
+        - OpenClassrooms \& CentralSupélec (M2)
+        - Management of data science projects and scientific follow-up
+        - Projects include data processing, univariate analysis, multivariate analysis, data visualization, supervised ML, RF, SVM, XGB, data encoding, unsupervised ML, t-SNE, k-means, DBSCAN, hierarchical clustering, transfer learning, SIFT, ORB, LSTM, cloud model deployment (AWS)
 
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
+    - title: Data Scientist
+      department: Faurecia, Paris, France
+      year: 2020
+      description:
+        - Digital Services Factory (DSF) of Faurecia, one of the first global automotive suppliers worldwide
+        - The DSF team, composed of 60 engineers aims to bring new AI skills.
+        - pecific involvements include ML applied to verbal aggressivity detection, DL applied to driver distraction detection and passenger presence detection. Model optimization. Inference on NVIDIA Jetson boards.
 
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
+    - title: Research Engineer
+      department: Wassa, Paris, France
+      year: 2018 - 2019
+      description:
+        - Part of the innovation team of Wassa, a digital company of 30 employees.
+        - The R&D team, composed of 4 researchers, ensures the quality of Wassa algorithms by using state-of-the-art CV techniques.
+        - Specific involvements include Deep Learning applied to Gender Recognition, Age Prediction and Object Detection. HoG for pedestrian detection, TS forecasting.
+    
+    - title: Deep Learning Intern
+      department: So-net Media Networks, Tokyo, Japan
+      year: 2017 - 2018
+      description:
+        - Part-time research internship at So-net Media Networks (SMN), a SONY subsidiary of 1000 employees specialized in Online Advertising.
+        - Implementation of a tool in Python to classify advertisement images regarding their efficiency.
+        - Training of several Deep Learning models using PyTorch.
+        - Experience training on a remote GPU using CUDA.
+        - Reading and understanding several Deep Learning research papers.
+        - Worked with a database of 40,000 ad images.
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Data science
+      institution: ESIEE Paris, Paris, France
+      year: 2024- L3
+      description: Python, Numpy, Sklearn. Original exercices from <a href="https://perso.esiee.fr/~bercherj/">Jean-François Bercher</a>
+    - title: Optimisation et IA
+      institution: ESIEE Paris, Paris, France
+      year: 2024 L3
+      description: Python, Keras
+    - title: <a href="https://sites.google.com/esiee.fr/romain-negrel/">Algorithms and Data structures</a>
+      institution: ESIEE Paris, Paris, France
+      year: 2022-2024 L3
+      description: C programming, complexity, code coverage
+    - title: <a href="https://www.laurentnajman.org/index.php?page=ia-et-deep-learning">Introduction to Deep Learning</a>
+      institution: ESIEE Paris, Paris, France
+      year: 2024 L3
+      description: Python, Keras, face detection and recognition
+    - title: Project Supervisor of  <a href="https://github.com/JohanPETIT/FootTracker">FootTracker</a>
+      institution: ESIEE Paris, Paris, France
+      year: 2024 L3
+      description: Analyzing soccer (football in French) to extract interesting stastics given player positions.
+    - title: Object-Oriented Programming
+      institution: ESIEE Paris, Paris, France
+      year: 2024 L1
+      description: Introduciton to Java OOP
+    - title: Micro-processing ARM
+      institution: ESIEE Paris, Paris, France
+      year: 2024 L1
+      description: ARM assembly programming
+    - title: Project Supervisor of Youtube DeepMetaData
+      institution: ESIEE Paris, Paris, France
+      year: 2023 M1
+    - title: Project Supervisor of <a href="https://github.com/Vitrox77/YouTube-Catalogue">YouTube Catalogue.</a>
+      institution: ESIEE Paris, Paris, France
+      year: 2022 M1
+      description: Supervising student working on scraping and organizing YouTube data.
+    - title: Time Series & Machine Learning
+      institution: ESIEE Paris, Paris, France
+      year: 2021 M2
+      description: Teaching Machine Learning concepts to final year engineer students for time series forecasting (LSTM, transformers, etc.)
+
+- title: Publications
+  type: list
+  contents:
+    - <a href="https://scholar.google.com/citations?user=OyXkV0QAAAAJ&hl=en&scioq=nicolas+michel">Google Scholar</a>
 
 # - title: Honors and Awards
 #   type: time_table
@@ -91,7 +180,9 @@
 #         - Description 1.
 #         - Description 2.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Sports:</u> Swimming, Hiking, Badminton.
+    - <u>Video Games:</u> Super Smash Bros Melee, Don't Starve, Barony, Despot's Game,<a href="https://aggrocrab.com/"> Another Crab's Treasure, Going Under</a>, Balatro, Ember Knights, and many many others.
+    - <u>Hobbies:</u> Dungeons & Dragons 5th Edition (as a player only, for now).
