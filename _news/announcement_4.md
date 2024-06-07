@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a presentation at the Labex Bézout day about "Stability-Plasticity trade-off in Online Continual Learning", at LIGM.
+I gave a presentation at the Labex Bézout day about "Stability-Plasticity trade-off in Online Continual Learning", at LIGM.
