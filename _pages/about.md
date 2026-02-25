@@ -22,4 +22,6 @@ Congrats for finding this website amongst all my [homonyms](https://scholar.goog
 
 My scientific interests lie in Deep Learning and Computer Vision. More specifically **Online Continual Learning**, **Representation Learning**, **Knowledge Distillation**, **Prompt Learning**. You can find out all my publications on my [Google Scholar](https://scholar.google.com/citations?user=OyXkV0QAAAAJ&hl=en&scioq=nicolas+michel). You can also find me on [Linkedin](https://www.linkedin.com/in/nicolas-michel-4166b7113/) and [GitHub](https://github.com/Nicolas1203).
 
+My recent work focuses on how to leverage the ever-growing introduction of foundation models in a continuous manner.
+
 I will probably add more information about myself one day but you get the big picture, probably.

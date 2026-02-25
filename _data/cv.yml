@@ -8,6 +8,84 @@
     - name: Languages
       value: French, English, Japanese and Spanish notions.
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: PostDoctoral Researcher
+      institution: The University of Tokyo
+      year: 2024 - NOW
+      description:
+        - PostDoctoral Researcher in the Computer Vision and Media Lab of Toshihiko Yamasaki.
+        - title: Research topics
+          contents:
+            - Online Continual Learning
+            - Mutual Learning
+            - Adversarial Training
+            - Impact of Image Generation on Continual Learners
+    - title: Teaching Assistant
+      institution: ESIEE Paris, Paris, France
+      year: 2024
+      description:
+        - title: 3rd year classes (L3)
+          contents:
+          - Data science (python, numpy, sklearn)
+          - Optimisation et IA (python, keras)
+          - <a href="https://www.laurentnajman.org/index.php?page=ia-et-deep-learning">Introduction to Deep Learning</a> (python, keras)
+          - Algorithms and Data structures (C)
+          - Project supervisor:<a href="https://github.com/JohanPETIT/FootTracker">FootTracker</a>
+        - title: 1st year classes (L1)
+          contents:
+          - Micro-processors (ARM assembly language)
+          - Introduction to Object-Oriented Programming (java)
+
+    - title: Visiting Scientist
+      institution: The University of Tokyo, Tokyo, Japan
+      year: 2023
+      description:
+        - Visiting Scientist in the Computer Vision and Media Lab (<a href="https://www.cvm.t.u-tokyo.ac.jp/en/">CVM</a>)
+        - Worked with Prof. Yamasaki in the YAMASAKI-lab
+        - title: Research topics
+          contents:
+            - Online Continual Learning
+            - Mutual Learning
+            - Adversarial Training
+            - Impact of Image Generation on Continual Learners
+      
+    - title: Data Science Mentoring
+      department: OpenClassrooms
+      year: 2020 - 2024
+      description:
+        - OpenClassrooms \& CentralSupélec (M2)
+        - Management of data science projects and scientific follow-up
+        - Projects include data processing, univariate analysis, multivariate analysis, data visualization, supervised ML, RF, SVM, XGB, data encoding, unsupervised ML, t-SNE, k-means, DBSCAN, hierarchical clustering, transfer learning, SIFT, ORB, LSTM, cloud model deployment (AWS)
+
+    - title: Data Scientist
+      department: Faurecia, Paris, France
+      year: 2020
+      description:
+        - Digital Services Factory (DSF) of Faurecia, one of the first global automotive suppliers worldwide
+        - The DSF team, composed of 60 engineers aims to bring new AI skills.
+        - pecific involvements include ML applied to verbal aggressivity detection, DL applied to driver distraction detection and passenger presence detection. Model optimization. Inference on NVIDIA Jetson boards.
+
+    - title: Research Engineer
+      department: Wassa, Paris, France
+      year: 2018 - 2019
+      description:
+        - Part of the innovation team of Wassa, a digital company of 30 employees.
+        - The R&D team, composed of 4 researchers, ensures the quality of Wassa algorithms by using state-of-the-art CV techniques.
+        - Specific involvements include Deep Learning applied to Gender Recognition, Age Prediction and Object Detection. HoG for pedestrian detection, TS forecasting.
+    
+    - title: Deep Learning Intern
+      department: So-net Media Networks, Tokyo, Japan
+      year: 2017 - 2018
+      description:
+        - Part-time research internship at So-net Media Networks (SMN), a SONY subsidiary of 1000 employees specialized in Online Advertising.
+        - Implementation of a tool in Python to classify advertisement images regarding their efficiency.
+        - Training of several Deep Learning models using PyTorch.
+        - Experience training on a remote GPU using CUDA.
+        - Reading and understanding several Deep Learning research papers.
+        - Worked with a database of 40,000 ad images.
+
 - title: Education
   type: time_table
   contents:
@@ -41,73 +119,6 @@
       year: 2012-2014
       description:
         - Intensive Maths and Physics studies
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: ESIEE Paris, Paris, France
-      year: 2024
-      description:
-        - title: 3rd year classes (L3)
-          contents:
-          - Data science (python, numpy, sklearn)
-          - Optimisation et IA (python, keras)
-          - <a href="https://www.laurentnajman.org/index.php?page=ia-et-deep-learning">Introduction to Deep Learning</a> (python, keras)
-          - Algorithms and Data structures (C)
-          - Project supervisor:<a href="https://github.com/JohanPETIT/FootTracker">FootTracker</a>
-        - title: 1st year classes (L1)
-          contents:
-          - Micro-processors (ARM assembly language)
-          - Introduction to Object-Oriented Programming (java)
-
-    - title: Visiting Scientist
-      institution: The University of Tokyo, Tokyo, Japan
-      year: 2023
-      description:
-        - Visiting Scientist in the Computer Vision and Media Lab (<a href="https://www.cvm.t.u-tokyo.ac.jp/en/">CVM</a>)
-        - Worked with Prof. Yamasaki in the YAMASAKI-lab
-        - title: Research topics
-          contents:
-            - Online Continual Learning
-            - Mutual Learning
-            - Adversarial Training
-            - Impact of Image Generation on Continual Learners
-      
-    - title: Data Science Mentoring
-      department: OpenClassrooms
-      year: 2020 - now
-      description:
-        - OpenClassrooms \& CentralSupélec (M2)
-        - Management of data science projects and scientific follow-up
-        - Projects include data processing, univariate analysis, multivariate analysis, data visualization, supervised ML, RF, SVM, XGB, data encoding, unsupervised ML, t-SNE, k-means, DBSCAN, hierarchical clustering, transfer learning, SIFT, ORB, LSTM, cloud model deployment (AWS)
-
-    - title: Data Scientist
-      department: Faurecia, Paris, France
-      year: 2020
-      description:
-        - Digital Services Factory (DSF) of Faurecia, one of the first global automotive suppliers worldwide
-        - The DSF team, composed of 60 engineers aims to bring new AI skills.
-        - pecific involvements include ML applied to verbal aggressivity detection, DL applied to driver distraction detection and passenger presence detection. Model optimization. Inference on NVIDIA Jetson boards.
-
-    - title: Research Engineer
-      department: Wassa, Paris, France
-      year: 2018 - 2019
-      description:
-        - Part of the innovation team of Wassa, a digital company of 30 employees.
-        - The R&D team, composed of 4 researchers, ensures the quality of Wassa algorithms by using state-of-the-art CV techniques.
-        - Specific involvements include Deep Learning applied to Gender Recognition, Age Prediction and Object Detection. HoG for pedestrian detection, TS forecasting.
-    
-    - title: Deep Learning Intern
-      department: So-net Media Networks, Tokyo, Japan
-      year: 2017 - 2018
-      description:
-        - Part-time research internship at So-net Media Networks (SMN), a SONY subsidiary of 1000 employees specialized in Online Advertising.
-        - Implementation of a tool in Python to classify advertisement images regarding their efficiency.
-        - Training of several Deep Learning models using PyTorch.
-        - Experience training on a remote GPU using CUDA.
-        - Reading and understanding several Deep Learning research papers.
-        - Worked with a database of 40,000 ad images.
 
 - title: Teaching
   type: time_table
