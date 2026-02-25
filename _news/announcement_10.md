@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled "Continual Distillation of Teachers from Different Domains" got accepted at CVPR2026! See you in Denver! The final version of this paper will be release soon.
+Our paper titled "Continual Distillation of Teachers from Different Domains" got accepted at CVPR2026! See you in Denver! The final version of this paper will be released soon.
