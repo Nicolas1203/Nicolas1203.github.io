@@ -6,7 +6,7 @@ subtitle: JSPS Post Doctoral Fellow at <a href='https://www.cvm.t.u-tokyo.ac.jp/
 
 profile:
   align: right
-  image: me_crop2.png
+  image: me_crop.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tokyo, Japan. nicolasmichel1203@gmail.com nicolas@cvm.t.u-tokyo.ac.jp</p>
