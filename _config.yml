@@ -8,7 +8,7 @@ middle_name:
 last_name: Michel
 email: nicolasmichel1203@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Nicolas Michel is an AI Research Scientist at Mercari, working on deep learning and computer vision.
+  Nicolas Michel is an AI Research Scientist at Mercari R4D, working on deep learning and computer vision.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

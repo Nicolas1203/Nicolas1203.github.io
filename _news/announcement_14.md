@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined [Mercari](https://about.mercari.com/en/) as an AI Research Scientist on September 16, 2026!
+I joined [Mercari R4D](https://r4d.mercari.com/en/) as an AI Research Scientist on September 16, 2026!
